@@ -4,7 +4,7 @@
 
 ## ライブデモは[こちら](https://kennyfully88.github.io/tanjoubi_omedetou/)です。
 
-![img](assets/images/demo.gif)
+<img src="assets/images/demo.gif" style="width: 128px" alt="FURUCODE Logo"/>
 
 2024年の誕生日おめでとう！
 
